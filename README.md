@@ -23,7 +23,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- 💬 Ask me about: **💡 JavaScript, React, VueJS, Kotlin, Java, C#, TypeScript, Node.js, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 - 📂 Portfolio: **<a href="https://preview-ewkc0y52e9z4.devv.app" target="_blank">https://preview-ewkc0y52e9z4.devv.app</a>**
 
@@ -45,4 +45,4 @@
 
  **<h3 align="left">Support Me</h3>**
 
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://ko-fi.com" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
